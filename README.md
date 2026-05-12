@@ -94,7 +94,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## Home Page
 
-Add your project screenshots here.
+
 
 ```bash
 assets/screenshots/home.png
@@ -104,12 +104,11 @@ assets/screenshots/home.png
 
 # 🌐 Live Demo
 
-Add deployment link here.
 
-Example:
+
 
 ```bash
-https://your-weather-app.vercel.app
+[https://your-weather-app.vercel.app](https://weatherapp-climatic.vercel.app/)
 ```
 
 ---
